@@ -6,8 +6,8 @@
 
 ## ⛺ Project Overview
 
-YelpCamp has evolved from a monolithic server-side rendered application into a modern Single Page Application (SPA). This repository is divided into two distinct workspaces:
-- **[Frontend](./frontend/README.md)**: A high-performance React application built with Vite and styled using Tailwind CSS v4, featuring a $100M ARR enterprise SaaS premium design.
+YelpCamp is a modern Single Page Application (SPA) designed for campsite discovery and sharing. This repository is divided into two distinct workspaces:
+- **[Frontend](./frontend/README.md)**: A high-performance React application built with Vite and styled using Tailwind CSS v4, featuring a premium dark-mode neon design.
 - **[Backend](./backend/README.md)**: A robust Node.js/Express REST API utilizing MongoDB for data persistence, handling all authentication, authorization, and business logic.
 
 ### ✨ Key Features
@@ -71,6 +71,3 @@ The React application will be available at [http://localhost:5173](http://localh
 
 - `/backend`: The Express JSON API, models, controllers, route handlers, and database seeds.
 - `/frontend`: The React SPA, Tailwind design system, Vite config, components, and pages.
-
----
-*Created as part of an advanced architectural migration and redesign initiative.*

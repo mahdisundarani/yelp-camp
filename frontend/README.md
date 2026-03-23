@@ -1,6 +1,6 @@
 # YelpCamp Frontend SPA
 
-> The newly rebuilt React application for YelpCamp featuring a dark-mode neon design system.
+> The React application for YelpCamp featuring a modern dark-mode neon design system.
 
 This frontend serves as a fast, decoupled Single Page Application. It leverages Vite for a blazing fast development server and optimized production build, `react-router-dom` for client-side routing, and `axios` to communicate with the Express API backend securely via cookies.
 
